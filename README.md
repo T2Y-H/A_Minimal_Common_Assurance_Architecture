@@ -80,6 +80,6 @@ A formal citation and DOI will be added when the initial public version is archi
 
 ## Author
 
-**[Author Name]**
+**[Tetsuya Hiraku]**
 
 The author information will be finalized before the public release.
