@@ -56,7 +56,7 @@ A Japanese counterpart is provided for semantic review and verification of the E
 
 It is intended to preserve claim strength, uncertainty, exceptions, and architectural distinctions rather than serve as an independently authoritative version.
 
-- `A_Minimal_Common_Assurance_Architecture_v0.1_JA_meaning_review.docx`
+- `A_Minimal_Common_Assurance_Architecture_v0.1_RC1_JA_meaning_review.docx`
 
 ## Relation to Existing Work
 
