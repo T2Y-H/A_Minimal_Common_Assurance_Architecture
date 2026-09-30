@@ -76,7 +76,10 @@ https://creativecommons.org/licenses/by/4.0/
 
 ## Citation
 
-A formal citation and DOI will be added when the initial public version is archived.
+Hiraku, T. (2026). *A Minimal Common Assurance Architecture for Stateful AI Systems* (Version 0.1). Zenodo.  
+https://doi.org/10.5281/zenodo.23061143
+
+**All versions:** https://doi.org/10.5281/zenodo.23061142
 
 ## Author
 
