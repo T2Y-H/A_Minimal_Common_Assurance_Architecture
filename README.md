@@ -1,10 +1,14 @@
-A Minimal Common Assurance Architecture for Stateful AI Systems
-A lightweight, implementation-neutral framing for connecting existing and future defensive mechanisms around stateful AI systems.
-It does not replace existing security practice or define a new security standard. Instead, it makes key assurance relationships explicit—including evidence and provenance, AI auditing, authorization and delegation, recovery validation, and human auditability.
-The architecture is intentionally incremental: existing security remains the foundation, and individual assurance capabilities can be added where useful.
-Public Technical Note · Discussion Draft v0.1 · CC BY 4.0 · 5 pages
-DOI: 10.5281/zenodo.23061143
+# A Minimal Common Assurance Architecture for Stateful AI Systems
 
+**A lightweight, implementation-neutral framing for connecting existing and future defensive mechanisms around stateful AI systems.**
+
+It does **not replace existing security practice or define a new security standard**. Instead, it makes key assurance relationships explicit—including evidence and provenance, AI auditing, authorization and delegation, recovery validation, and human auditability.
+
+The architecture is intentionally **incremental**: existing security remains the foundation, and individual assurance capabilities can be added where useful.
+
+**Public Technical Note · Discussion Draft v0.1 · CC BY 4.0 · 5 pages**
+
+**DOI:** [10.5281/zenodo.23061143](https://doi.org/10.5281/zenodo.23061143)
 ## Core Idea
 
 The architecture connects several roles and relationships around an existing security foundation, including:
