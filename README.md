@@ -9,6 +9,7 @@ The architecture is intentionally **incremental**: existing security remains the
 **Public Technical Note · Discussion Draft v0.1 · CC BY 4.0 · 5 pages**
 
 **DOI:** [10.5281/zenodo.23061143](https://doi.org/10.5281/zenodo.23061143)
+
 ## Core Idea
 
 The architecture connects several roles and relationships around an existing security foundation, including:
@@ -87,5 +88,3 @@ https://doi.org/10.5281/zenodo.23061143
 ## Author
 
 Tetsuya Hiraku
-
-
