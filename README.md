@@ -1,10 +1,9 @@
-# A Minimal Common Assurance Architecture for Stateful AI Systems
-
-**A Framing Proposal for Connecting Existing and Future Defensive Mechanisms**
-
-This repository contains a public technical note proposing a **minimal common assurance architecture for stateful AI systems**.
-
-The proposal does not attempt to replace existing security practices or introduce a new security standard. Instead, it asks whether existing and future defensive mechanisms may become easier to connect, inspect, extend, replace, and evaluate if several assurance relationships are made explicit within a shared architectural skeleton.
+A Minimal Common Assurance Architecture for Stateful AI Systems
+A lightweight, implementation-neutral framing for connecting existing and future defensive mechanisms around stateful AI systems.
+It does not replace existing security practice or define a new security standard. Instead, it makes key assurance relationships explicit—including evidence and provenance, AI auditing, authorization and delegation, recovery validation, and human auditability.
+The architecture is intentionally incremental: existing security remains the foundation, and individual assurance capabilities can be added where useful.
+Public Technical Note · Discussion Draft v0.1 · CC BY 4.0 · 5 pages
+DOI: 10.5281/zenodo.23061143
 
 ## Core Idea
 
