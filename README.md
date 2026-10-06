@@ -51,7 +51,7 @@ It is not presented as a complete architecture, security standard, or guarantee 
 
 The English version is the authoritative public version of the Technical Note.
 
-- `A_Minimal_Common_Assurance_Architecture_v0.1.pdf`
+- [A_Minimal_Common_Assurance_Architecture_v0.1.pdf](A_Minimal_Common_Assurance_Architecture_v0.1.pdf)
 
 ### Japanese Meaning-Review Version
 
@@ -59,7 +59,7 @@ A Japanese counterpart is provided for semantic review and verification of the E
 
 It is intended to preserve claim strength, uncertainty, exceptions, and architectural distinctions rather than serve as an independently authoritative version.
 
-- `A_Minimal_Common_Assurance_Architecture_v0.1_RC1_JA_meaning_review.docx`
+- [A_Minimal_Common_Assurance_Architecture_v0.1_RC1_JA_meaning_review.docx](A_Minimal_Common_Assurance_Architecture_v0.1_RC1_JA_meaning_review.docx)
 
 ## Relation to Existing Work
 
